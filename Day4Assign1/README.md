@@ -14,7 +14,7 @@ Kurulumu yaptıktan sonra **Window -> Preferences -> Java -> Installed JRE's** k
 ![jdkEkleme](https://raw.githubusercontent.com/salihdeg/gitHubImages/master/java-examples-readme/mernis-and-jdk/JdkEklemeVeAtama1.png)
 
 Daha sonra hemen altındaki **Execution Enviroments** kısmından 1.8 için atama yapıp kaydedebilirsiniz.
-
+(Bende Jre seçili, onu takmayın siz :) )
 ![jdkEkleme2](https://raw.githubusercontent.com/salihdeg/gitHubImages/master/java-examples-readme/mernis-and-jdk/JdkEklemeVeAtama2.png)
 
 Eğer java 8'i bütün projeler için varsayılan seçmediyseniz eklemek istediğiniz projenin kullandığı JDK'yı değiştirmeniz gerekecek.
